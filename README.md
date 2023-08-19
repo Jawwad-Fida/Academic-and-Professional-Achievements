@@ -1,3 +1,12 @@
+# Professional Career Achievements
+
+
+
+
+# Academic Achivements 
+
+
+
 # Work-related-projects
 Work-related projects that I have engaged in as a Software Project Manager. Also, I did some side R&D projects to enhance my technical knowledge.
 
