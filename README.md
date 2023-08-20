@@ -1,18 +1,24 @@
 # Professional Career Achievements
 
+## Software Project Manager (Specialist), Enterprise and OTT Solutions, New Core Planning at [Robi Axiata Limited](https://www.robi.com.bd/en)
 
 
 
-# Academic Achivements 
+# Academic Achievements 
+
+## Bachelor in Science (BSc.) in Computer Science and Engineering (CSE) at [United International University](https://www.uiu.ac.bd/)
+
+### 1) Academic Scholarships - 📘 10 Academic Scholarships in total
+
+<img src="https://github.com/Jawwad-Fida/Academic-and-Professional-Achievements/assets/64092765/7b2e123a-45ab-4587-bc54-52b7868a16eb" width="75%">
+
+    • 100% scholarship (3x): Summer 18, Fall 19, Summer 22
+    • 50% scholarship (2x): Spring 21, Spring 22
+    • 25% scholarship (5x): Summer 19, Spring 20, Summer 20, Summer 21, Fall 21
 
 
 
-# Work-related-projects
-Work-related projects that I have engaged in as a Software Project Manager. Also, I did some side R&D projects to enhance my technical knowledge.
 
-### Specialist, Enterprise and OTT Solutions, New Core Planning (Software Project Manager) at [Robi Axiata Limited](https://www.robi.com.bd/en)
-
-## Projects overseen as Software Project Manager
 
 ### [Binge - Online video streaming OTT platform (binge.buzz)](https://binge.buzz/) - 📘 Robi's OTT Platform
 Binge is an online video streaming OTT (Over-the-top) platform that offers endless entertainment in the form of Live TV, web series, films, dramas, movies, Binge Exclusive Originals and much more. Binge provides a truly seamless entertainment experience to customers where they can watch as much as they want, whenever they want, without a single commercial.
