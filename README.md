@@ -2,6 +2,13 @@
 
 ## Software Project Manager (Specialist), Enterprise and OTT Solutions, New Core Planning at [Robi Axiata Limited](https://www.robi.com.bd/en)
 
+### 1) Robi IT "Rising Star" Award - 📘 Robi IT H1 2023 Townhall
+
+The "Rising Star Award" acknowledges those who have stood out and made a significant impact early in their careers, demonstrating a remarkable combination of talent and potential. They have shown remarkable promise and growth in their field or profession.
+
+<img src="https://github.com/Jawwad-Fida/Academic-and-Professional-Achievements/assets/64092765/03819b88-facc-4892-84d1-b57ad753d9c1" width="50%">
+<img src="https://github.com/Jawwad-Fida/Academic-and-Professional-Achievements/assets/64092765/16458e70-dc2c-40a3-ab7c-6ce39c400ad8" width="50%">
+<img src="https://github.com/Jawwad-Fida/Academic-and-Professional-Achievements/assets/64092765/f280c0fa-d30e-4431-a63f-189ae8c05149" width="25%">
 
 
 # B) Academic Achievements 
@@ -24,6 +31,8 @@
 
 <img src="https://github.com/Jawwad-Fida/Academic-and-Professional-Achievements/assets/64092765/dbe5e443-07c4-45fa-899e-d1e18f951e25" width="25%">
 
+<img src="https://github.com/Jawwad-Fida/Academic-and-Professional-Achievements/assets/64092765/4fdc78f6-6dae-481b-8c41-1908589871bf" width="50%">
+
 ### 3) [Champion in UIU CSE Project Showcase Summer 2022](https://www.facebook.com/photo?fbid=160500829986039&set=a.159753340060788) - 📘 Software Engineering Laboratory
 
 
@@ -32,6 +41,9 @@
 <img src="https://github.com/Jawwad-Fida/Academic-and-Professional-Achievements/assets/64092765/d04a3ae1-4914-4ee4-8ae6-ae265465b988" width="50%">
 
 <img src="https://github.com/Jawwad-Fida/Academic-and-Professional-Achievements/assets/64092765/a8c85e07-86c4-4079-aed4-1f46f47ebc7d" width="25%">
+
+<img src="https://github.com/Jawwad-Fida/Academic-and-Professional-Achievements/assets/64092765/9599f593-f24e-4453-af72-0b95c06e932b" width="50%">
+
 
 # C) Extra Curricular Actvities Achievements 
 
